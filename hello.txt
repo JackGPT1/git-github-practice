@@ -6,3 +6,4 @@ This line is another master change.
 This line is for feature branch.
 >>>>>>> feature
 This line was added directly on GitHub.
+This line was added directly on GitHub (New 1).
