@@ -5,3 +5,4 @@ This line is another master change.
 =======
 This line is for feature branch.
 >>>>>>> feature
+This line was added directly on GitHub.
