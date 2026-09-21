@@ -1,3 +1,7 @@
 Hello, Git!
 This line is for master branch.
+<<<<<<< HEAD
 This line is another master change.
+=======
+This line is for feature branch.
+>>>>>>> feature
