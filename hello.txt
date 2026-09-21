@@ -7,3 +7,4 @@ This line is for feature branch.
 >>>>>>> feature
 This line was added directly on GitHub.
 This line was added directly on GitHub (New 1).
+This line was added directly on Local computer.
